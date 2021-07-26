@@ -1,0 +1,46 @@
+*{
+  background-color: lightblue;
+  color: blue;
+}
+img{
+     width: 400px;
+     height:200px;
+     border:10px;
+ }
+ #imagen{
+     display: flex;
+     align-content: space-around;
+     justify-content: space-around;
+     color: black;
+     background-color: lightblue;
+     text-align:right;
+     padding:20px;
+     top:50px;
+ }
+ #titulo{
+     display:inline;
+     text-align:center;
+     color: blue;
+ }
+ #javier{
+     font-style: italic;
+     font-size: 40px;
+     color: blue;
+ }
+ #enlaces{
+     margin:50px;
+ }
+ #soyjavier{
+   font-style: italic;
+   font-size: 25;
+   color: blue;
+   margin-left: 70px;
+   height:200px;
+   width: 700px;
+   text-align: justify;
+   background-color: lightblue;
+
+ }
+ .titulos{
+   color: red;
+ }

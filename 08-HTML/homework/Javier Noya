@@ -1,0 +1,190 @@
+<!doctype html>
+<html>
+<head>
+<title> Pagina personal de JAVIER NOYA  </title>
+<link rel="stylesheet" href= "./javierstyles.css">
+</head>
+<body>
+<div id= "imagen">
+
+                  <div id="titulo"> Pagina Personal de <BR/><br/><spam id="javier">JAVIER OSCAR NOYA</spam></div>
+                  <div id="foto"><img src="javier.jpg" alt= "Foto mia"></div>
+</div>
+<div>
+  <p id="soyjavier">Soy Javier Noya, cumplo 40 años y me plantie cambiar de carrera.
+  Porque? se podran preguntar, con casi 20 años de experiencia en quimica,
+   me desarrolle en industrias de renombre internacional en areas de aguas y efluentes
+   pero tras mudarme a las sierras de cordoba tube que cambiar de rubro ya que
+ no hay en la zona nada en mi area.
+Monte una fabrica de cerveza artesanal, muy buen por sierto, pero la pandemia
+me llevo nuevamente a replantearme un cambio.
+Actualmente estoy trabajando en atencion al publico, pero se que en el area virtual
+hay mucho por desarrollar aqui.</p><br/><br/>
+ <a href="#estudios">Estudios</a><br/><br/>
+<a href= "#cursos" > Cursos y capacitaciones</a><br/><br/>
+<a href="#antecedentes">Antecedentes laborales</a><br/><br/>
+ <a href=https://www.linkedin.com/in/javier-oscar-noya-060342bb/>linkedin</a>
+</div>
+<p id="estudios">
+  <h3 class="titulos">Estudios</h3>
+<h4>Universitario:</h4>
+Licenciatura en Química. <br/>
+Universidad Nacional de La Plata (U.N.L.P)<br/>
+Incompleto<br/><br/><br/>
+
+
+<h4>Secundario:</h4>
+Técnico Químico. <br/>
+ E.E.T.Nº 1 Brandsen.<br/>
+Promedio: 8.20<br/>
+</p>
+<p id="cursos">
+  <h3 class="titulos">Cursos:</h3>
+  <ul>
+    <li> Electricista matriculado.ersep.</li>
+    <li> Tratamiento Biológico de efluentes industriales y cloacales,
+       nuevas Tecnologías. Carga horaria de 8 hs. Dictado por el Ing.
+       Jacques André Conchon. Neotex</li>
+   <li>Control de emisiones gaseosas. Carga horaria de 4 hs. Dictado por
+         el Ing. Jacques André Conchon. Neotex.</li>
+   <li> Control de olores industriales. Carga horaria de 4 hs. Dictado por el
+     Ing. Jacques André Conchon. Neotex</li>
+   <li>Técnicas eficaces para la resolución de problemas. Carga horaria 8 hs.
+     Dictado por Diego Broglia y Asoc.
+</li>
+
+  </ul>
+
+</p>
+<p id="antecedentes">
+  <h3 class="titulos"> Antecedentes Laborales </h3>
+
+<a href= "#onofre" > Cerveceria Onofre</a><br/>
+<a href= "#coca" > Coca Cola Femsa</a><br/>
+<a href= "#inqui" > INQUINAT S.A.</a><br/>
+<a href= "#manpower" > CotecSud.</a><br/>
+<a href= "#johnson" > S.C. Johnson &  Son de Argentina.</a><br/>
+<a href= "#ppe" > PPE. S.A.</a><br/>
+
+  Lugar de trabajo:<a href="#antecedentes"> volver a antecedentes</a>
+   <h4 id="onofre">Cerveceria Onofre</h4><br/>
+  Rubro: Cervecería .<br/>
+  Fecha de ingreso: 02 - 01 - 2018<br/>
+  Fecha de egreso: actualidad<br/>
+  Posición: Especialista de Producción y Calidad.<br/>
+  Sector: Producción<br/>
+  Responsabilidades:<br/>
+  Responsable de garantizar la producción y calidad del agua de bebida
+  Coordinar los recursos tecnicos para garantizar el tratamiento de aguas y efluentes.
+  Coordinar analisis, muestreos, materias primas referentes al sector.
+  Referencia: Cervecería Onofre.<br/>
+  Camino Real s/n Huerta Grande.<br/>
+  Tel: 011 1521641808<br/><br/><br/>
+
+
+  Lugar de trabajo:<a href="#antecedentes"> volver a antecedentes</a>
+  <h4 id="coca"> Coca Cola Femsa de buenos Aires S.A.I.C.</h4><br/>
+  Rubro: Consumo Masivo. Alimenticia.<br/>
+  Fecha de ingreso: 01-03-2011<br/>
+  Fecha de egreso: 16-12-2017<br/>
+  Posición: Operador de Turno Planta de tratamiento de Efluentes y Sala de Aguas.<br/>
+  Sector: Medio ambiente - Calidad.<br/>
+  Descripción de Roles y Responsabilidades:<br/>
+
+  Operación de tratamiento de efluentes por mbr y sistemas de aireación convencional. 3000m3/d
+  Operación de sala de aguas. Osmosis inversas. Ultrafiltración. Floculadores
+  Seguimiento y optimización de indicadores de gestión.
+  Recepción de auditorías externas e internas (ART, Gubernamentales, entes certificadores externos).
+  Optimización  y verificación de cumplimiento en la gestión de residuos.
+  Análisis de aguas para preparación de bebidas.
+  Sanitación de pulidores, preparación de reactivos.
+  Calibración de sensores y sondas<br/>
+
+  Referencias: Sergio Marino 1538246734 / Sergio.marino@kof.com.mx <br/><br/><br/>
+
+
+
+  Lugar de trabajo: <a href="#antecedentes"> volver a antecedentes</a>
+  <h4 id="inqui">INQUINAT S.A.</h4><br/>
+  Rubro: Química.<br/>
+  Fecha de ingreso: 9-2010<br/>
+  Fecha de egreso: 3-2011<br/>
+  Posición: <br/>
+  Sector: Asistencia Técnica.<br/>
+  Descripción de Roles y Responsabilidades:<br/>
+
+  Servicio y asesoramiento a plantas de tratamiento de clientes( Roemmers, Zelltek, etc.)
+  Desarrollo de nuevas técnicas para reducción de costos e incorporación de nueva tecnología.
+  Trabajo en mesada de laboratorio ambiental.
+  Análisis de producto semi elaborado y elaborado.
+  Análisis de muestras de aguas de clientes (Calderas, torres de enfriamiento, circuitos, chillers, ósmosis inversa, electrodesionización, etc.)
+  Confección de procedimientos de trabajo
+  Análisis con fotocolorímetro, espectroscopia atómica, microscopio, análisis de resinas, capacidad de intercambio, etc.
+  Análisis de laboratorio: determinación de DBO, DQO, metales pesados, cloro libre y total, IVL, OD, dureza, sílice, TTA, DEHA, etc.
+  visita a clientes.<br/>
+
+  Referencias: Inquinat.<br/><br/><br/>
+
+
+  Lugar de trabajo:<a href="#antecedentes"> volver a antecedentes</a>
+   <h4 id="manpower">CotecSud.</h4><br/>
+  Rubro: Personal Temporario.<br/>
+  Fecha de ingreso: 06-2010<br/>
+  Fecha de egreso: 09-2010<br/>
+  Posición: Supervisor de Turno Planta de Tratamiento<br/>
+  Sector: Medio Ambiente<br/>
+  Descripción de Roles y Responsabilidades:<br/>
+
+  Muestreo y análisis de efluentes, barros biológicos y físico-   químicos.
+  Recepción de entes gubernamentales responsables del control de los vuelcos (O.P.D.S y ADA)
+  Relevamiento de stock y pedido de materias primas.
+  Capacitación de personal.
+  Formulación de procedimientos de trabajo.
+  Aplicación de normas ISO 9001 y 14001
+  Líder de higiene y seguridad del sector.
+  Optimización de procesos de tratamiento de efluentes.  <br/>
+  Referencias: Lic. Leandro Martins 011 1558441964 / leandromartins@hotmail.com<br/> <br/> <br/>
+
+
+  Lugar de trabajo:<a href="#antecedentes"> volver a antecedentes</a>
+  <h4 id="johnson">S.C. Johnson &  Son de Argentina.</h4><br/>
+  Rubro: Industria Química.<br/>
+  Fecha de ingreso: 12-2006<br/>
+  Fecha de egreso: 10-2008<br/>
+  Posición Anterior: Supervisor de turno. Planta de tratamiento de efluentes.<br/>
+  Sector: Producción.<br/>
+  Descripción de Roles y Responsabilidades:<br/>
+
+  Muestreo y análisis de efluentes, barros biológicos y físico-   químicos.
+  Recepción de entes gubernamentales responsables del control de los vuelcos (O.P.D.S y ADA)
+  Relevamiento de stock y pedido de materias primas.
+  Capacitación de personal.
+  Formulación de procedimientos de trabajo.
+  Aplicación de normas ISO 9001 y 14001
+  Líder de higiene y seguridad del sector.
+  Optimización de procesos de tratamiento de efluentes.    <br/>
+
+  Referencias: Lic. Leandro Martins 011 1558441964 / leandromartins@hotmail.com<br/> <br/> <br/>
+
+  Lugar de trabajo: <a href="#antecedentes"> volver a antecedentes</a>
+  <h4 id="ppe">PPE. S.A.</h4><br/>
+  Rubro: Industria Química.<br/>
+  Fecha de ingreso: 07-2001<br/>
+  Fecha de egreso: 12- 2006<br/>
+  Posición: Operador de turno tarde. Planta de tratamiento de Efluentes<br/>
+  Descripción de Roles y Responsabilidades:<br/>
+
+  Prestando servicio en PEUGEOT CITROËN ARGENTINA.
+  Responsable de laboratorio en una planta de tratamiento de efluentes.
+  Control de barros activos y pasivados, tratamiento de efluentes industriales.
+  Análisis y caracterización de efluentes.
+  Análisis de laboratorio: Determinación de Cloro libre y total, metales pesados(Plomo, cromo, níquel, etc.) Detergentes, aceites y grasas, etc.
+  Electricista de turno. Tableros electricos industriales.
+  Mantenimiento correctivo.
+  Manejo de Autoelevador y Camión.<br/>
+  Referencias: Alejandra Segat: 42677000 / asegat@ppe.com.ar<br/>
+
+
+</p>
+</body>
+</html>
